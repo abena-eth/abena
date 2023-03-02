@@ -9,7 +9,7 @@
 
 - ### 👋 Hi, I’m Abena (pronounced `abn-AA`) 
 
--  🤝 I have a get things done attitude and I enjoy empowering others.👯
+-  👀 I have a get things done attitude and I enjoy empowering others.🤝
 -  💞️ Looking to collaborate with fellow buidlers at ETHGlobal hackathons and work on exciting projects like; building dApps, NFT projects and DeFi products.
 - ⚒️ Currently building 
 <!-- -  👀   Interested in software engineering and the future of web3. -->
